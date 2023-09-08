@@ -1,0 +1,8 @@
+// 
+
+
+bpm = 120
+shape(4,[0.5, 0.4]).repeat(2)
+  .colorama(1)
+  .scrollY(2)
+  .out(o0)
